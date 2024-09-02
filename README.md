@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Teja Koripilli</h1>
-<h3 align="center">A Data Science enthusiast ready to delve into problem solving and ready to work on Realtime Data</h3>
+<h3 align="center">A Data Science enthusiast ready to delve into problem solving and work on Realtime Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnateja2132&label=Profile%20views&color=0e75b6&style=flat" alt="krishnateja2132" /> </p>
 
